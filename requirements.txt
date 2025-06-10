@@ -1,0 +1,7 @@
+# Required packages
+psutil
+scapy
+cryptography
+schedule
+PyPDF2
+pyshark
